@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pylkkänen, Hilma
     gutenberg_agent_id: '54994'
     url: http://www.gutenberg.org/2009/agents/54994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68880#Ihanteen-kaipuu
 gutenberg_issued: '2022-08-31'
 identifiers:
   gutenberg: '68880'
